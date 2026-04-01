@@ -10,7 +10,7 @@ function Navbar() {
                     <nav class="space-x-6 hidden md:block">
                         <Link  to={'/'}><a href="#" class="text-gray-700 hover:text-blue-600">Home</a></Link>
                         <Link to={'/about'}>About</Link>
-                        <a href="#" class="text-gray-700 hover:text-blue-600">Services</a>
+                      <Link to={'/service'}>  <a href="#" class="text-gray-700 hover:text-blue-600">Services</a></Link>
                         <a href="#" class="text-gray-700 hover:text-blue-600">Contact</a>
                     </nav>
                     <button class="bg-blue-600 text-white px-4 py-2 rounded-lg">Login</button>
