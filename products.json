@@ -1,4 +1,3 @@
-
 {"product":[
   {
     "id": 1,
@@ -13,7 +12,7 @@
     "id": 2,
     "name": "Wireless Mouse",
     "category": "Electronics",
-    "price": 25.50, 
+    "price": 25.50,
     "stock": 50,
     "description": "Ergonomic 2.4GHz wireless mouse with adjustable DPI.",
     "image_url": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
@@ -180,5 +179,207 @@
     "description": "20000mAh fast charging portable power bank.",
     "image_url": "https://images.unsplash.com/photo-1609091839697-eb211ff6d48a?w=500"
   }
+],
+"people":[
+    {
+      "id": 1,
+      "full_name": "Alex Johnson",
+      "role": "Full Stack Developer",
+      "email": "alex.j@example.com",
+      "phone": "+1-555-0101",
+      "location": "San Francisco, CA",
+      "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      "bio": "Passionate about building scalable web applications and cloud architecture."
+    },
+    {
+      "id": 2,
+      "full_name": "Sarah Williams",
+      "role": "UI/UX Designer",
+      "email": "sarah.w@example.com",
+      "phone": "+1-555-0102",
+      "location": "London, UK",
+      "avatar_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+      "bio": "Focusing on user-centric design and interactive prototyping."
+    },
+    {
+      "id": 3,
+      "full_name": "Michael Chen",
+      "role": "Backend Engineer",
+      "email": "m.chen@example.com",
+      "phone": "+1-555-0103",
+      "location": "Singapore",
+      "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+      "bio": "Expert in Java Spring Boot, Microservices, and Database optimization."
+    },
+    {
+      "id": 4,
+      "full_name": "Emily Davis",
+      "role": "Marketing Specialist",
+      "email": "emily.d@example.com",
+      "phone": "+1-555-0104",
+      "location": "New York, NY",
+      "avatar_url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+      "bio": "Strategic thinker with a focus on digital growth and social media trends."
+    },
+    {
+      "id": 5,
+      "full_name": "David Miller",
+      "role": "DevOps Engineer",
+      "email": "d.miller@example.com",
+      "phone": "+1-555-0105",
+      "location": "Berlin, Germany",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "bio": "Automation enthusiast specialized in Docker, Kubernetes, and CI/CD."
+    },
+    {
+      "id": 6,
+      "full_name": "Jessica Lee",
+      "role": "Product Manager",
+      "email": "jessica.l@example.com",
+      "phone": "+1-555-0106",
+      "location": "Toronto, Canada",
+      "avatar_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=400&fit=crop",
+      "bio": "Bridging the gap between business goals and technical execution."
+    },
+    {
+      "id": 7,
+      "full_name": "Robert Wilson",
+      "role": "Data Scientist",
+      "email": "robert.w@example.com",
+      "phone": "+1-555-0107",
+      "location": "Austin, TX",
+      "avatar_url": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+      "bio": "Turning complex data into actionable insights using Machine Learning."
+    },
+    {
+      "id": 8,
+      "full_name": "Sophia Garcia",
+      "role": "Mobile App Developer",
+      "email": "sophia.g@example.com",
+      "phone": "+1-555-0108",
+      "location": "Madrid, Spain",
+      "avatar_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=400&fit=crop",
+      "bio": "Expert in Flutter and React Native for cross-platform solutions."
+    },
+    {
+      "id": 9,
+      "full_name": "James Taylor",
+      "role": "Quality Assurance",
+      "email": "james.t@example.com",
+      "phone": "+1-555-0109",
+      "location": "Sydney, Australia",
+      "avatar_url": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=400&h=400&fit=crop",
+      "bio": "Ensuring software excellence through rigorous automated testing."
+    },
+    {
+      "id": 10,
+      "full_name": "Linda Martinez",
+      "role": "Content Creator",
+      "email": "linda.m@example.com",
+      "phone": "+1-555-0110",
+      "location": "Mexico City, MX",
+      "avatar_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=400&fit=crop",
+      "bio": "Telling stories through high-quality video and written content."
+    },
+    {
+      "id": 11,
+      "full_name": "William Brown",
+      "role": "Frontend Developer",
+      "email": "will.b@example.com",
+      "phone": "+1-555-0111",
+      "location": "Seattle, WA",
+      "avatar_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+      "bio": "Specialized in React, Tailwind CSS, and Next.js applications."
+    },
+    {
+      "id": 12,
+      "full_name": "Olivia White",
+      "role": "Project Coordinator",
+      "email": "olivia.w@example.com",
+      "phone": "+1-555-0112",
+      "location": "Paris, France",
+      "avatar_url": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=400&h=400&fit=crop",
+      "bio": "Organizing team workflows and ensuring project deadlines are met."
+    },
+    {
+      "id": 13,
+      "full_name": "Ryan Harris",
+      "role": "Cybersecurity Analyst",
+      "email": "ryan.h@example.com",
+      "phone": "+1-555-0113",
+      "location": "Chicago, IL",
+      "avatar_url": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?w=400&h=400&fit=crop",
+      "bio": "Protecting digital assets and identifying system vulnerabilities."
+    },
+    {
+      "id": 14,
+      "full_name": "Mia Thompson",
+      "role": "Human Resources",
+      "email": "mia.t@example.com",
+      "phone": "+1-555-0114",
+      "location": "Tokyo, Japan",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop",
+      "bio": "Building strong team cultures and talent acquisition strategies."
+    },
+    {
+      "id": 15,
+      "full_name": "Thomas Clark",
+      "role": "System Administrator",
+      "email": "thomas.c@example.com",
+      "phone": "+1-555-0115",
+      "location": "Dublin, Ireland",
+      "avatar_url": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=400&h=400&fit=crop",
+      "bio": "Managing network infrastructure and server maintenance."
+    },
+    {
+      "id": 16,
+      "full_name": "Chloe Walker",
+      "role": "Illustrator",
+      "email": "chloe.w@example.com",
+      "phone": "+1-555-0116",
+      "location": "Amsterdam, NL",
+      "avatar_url": "https://images.unsplash.com/photo-1531123897727-8f129e16fd3c?w=400&h=400&fit=crop",
+      "bio": "Creating unique digital illustrations for brands and media."
+    },
+    {
+      "id": 17,
+      "full_name": "Kevin Lewis",
+      "role": "Sales Executive",
+      "email": "kevin.l@example.com",
+      "phone": "+1-555-0117",
+      "location": "Dubai, UAE",
+      "avatar_url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
+      "bio": "Driving revenue growth through client relationship management."
+    },
+    {
+      "id": 18,
+      "full_name": "Grace Hall",
+      "role": "Financial Analyst",
+      "email": "grace.h@example.com",
+      "phone": "+1-555-0118",
+      "location": "Hong Kong",
+      "avatar_url": "https://images.unsplash.com/photo-1548142813-c348350df52b?w=400&h=400&fit=crop",
+      "bio": "Analyzing market trends and managing corporate budgets."
+    },
+    {
+      "id": 19,
+      "full_name": "Samuel Wright",
+      "role": "SEO Specialist",
+      "email": "sam.w@example.com",
+      "phone": "+1-555-0119",
+      "location": "Seoul, South Korea",
+      "avatar_url": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=400&fit=crop",
+      "bio": "Optimizing search engine visibility and organic traffic growth."
+    },
+    {
+      "id": 20,
+      "full_name": "Isabella Scott",
+      "role": "Legal Counsel",
+      "email": "isabella.s@example.com",
+      "phone": "+1-555-0120",
+      "location": "Rome, Italy",
+      "avatar_url": "https://images.unsplash.com/photo-1554151228-14d9def656e4?w=400&h=400&fit=crop",
+      "bio": "Advising on corporate law, contracts, and intellectual property."
+    }
 ]
 }
