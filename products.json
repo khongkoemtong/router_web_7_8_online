@@ -1,0 +1,184 @@
+
+{"product":[
+  {
+    "id": 1,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 89.99,
+    "stock": 15,
+    "description": "RGB backlit mechanical keyboard with blue switches.",
+    "image_url": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=500"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.50,
+    "stock": 50,
+    "description": "Ergonomic 2.4GHz wireless mouse with adjustable DPI.",
+    "image_url": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+  },
+  {
+    "id": 3,
+    "name": "Coffee Mug",
+    "category": "Home & Kitchen",
+    "price": 12.00,
+    "stock": 100,
+    "description": "Ceramic matte black coffee mug, 350ml.",
+    "image_url": "https://images.unsplash.com/photo-1517142089942-ba376ce32a2e?w=500"
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "price": 75.00,
+    "stock": 25,
+    "description": "Lightweight breathable running shoes for men.",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 199.99,
+    "stock": 10,
+    "description": "Fitness tracker with heart rate monitor and GPS.",
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+  },
+  {
+    "id": 6,
+    "name": "Leather Wallet",
+    "category": "Fashion",
+    "price": 30.00,
+    "stock": 40,
+    "description": "Genuine leather bi-fold wallet for men.",
+    "image_url": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 45.00,
+    "stock": 30,
+    "description": "Portable waterproof speaker with 12-hour playtime.",
+    "image_url": "https://images.unsplash.com/photo-1608156639585-340049e556f3?w=500"
+  },
+  {
+    "id": 8,
+    "name": "Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 35.00,
+    "stock": 20,
+    "description": "Modern LED desk lamp with wireless charging base.",
+    "image_url": "https://images.unsplash.com/photo-1534073828943-f801091bb18c?w=500"
+  },
+  {
+    "id": 9,
+    "name": "Backpack",
+    "category": "Fashion",
+    "price": 55.00,
+    "stock": 18,
+    "description": "Water-resistant laptop backpack with USB port.",
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+  },
+  {
+    "id": 10,
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "price": 60.00,
+    "stock": 12,
+    "description": "Noise-cancelling headset with surround sound.",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+  },
+  {
+    "id": 11,
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 25.00,
+    "stock": 60,
+    "description": "Non-slip eco-friendly yoga mat with carrying strap.",
+    "image_url": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=500"
+  },
+  {
+    "id": 12,
+    "name": "Stainless Steel Bottle",
+    "category": "Home & Kitchen",
+    "price": 18.50,
+    "stock": 85,
+    "description": "Vacuum insulated water bottle, keeps cold for 24h.",
+    "image_url": "https://images.unsplash.com/photo-1602143399827-bd95ef6f436a?w=500"
+  },
+  {
+    "id": 13,
+    "name": "Sunglasses",
+    "category": "Fashion",
+    "price": 120.00,
+    "stock": 15,
+    "description": "Polarized classic aviator sunglasses.",
+    "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500"
+  },
+  {
+    "id": 14,
+    "name": "Dumbbells",
+    "category": "Sports",
+    "price": 40.00,
+    "stock": 10,
+    "description": "Pair of 5kg rubber-coated hex dumbbells.",
+    "image_url": "https://images.unsplash.com/photo-1583454110551-21f2fa202114?w=500"
+  },
+  {
+    "id": 15,
+    "name": "Notebook",
+    "category": "Stationery",
+    "price": 8.00,
+    "stock": 150,
+    "description": "A5 dotted grid notebook for bullet journaling.",
+    "image_url": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=500"
+  },
+  {
+    "id": 16,
+    "name": "Electric Kettle",
+    "category": "Home & Kitchen",
+    "price": 29.99,
+    "stock": 22,
+    "description": "1.7L fast boiling electric tea kettle.",
+    "image_url": "https://images.unsplash.com/photo-1594212699903-ec8a3ecc50f1?w=500"
+  },
+  {
+    "id": 17,
+    "name": "Monitor Stand",
+    "category": "Electronics",
+    "price": 32.00,
+    "stock": 14,
+    "description": "Wooden monitor riser with storage slots.",
+    "image_url": "https://images.unsplash.com/photo-1593640495253-23196b27a05f?w=500"
+  },
+  {
+    "id": 18,
+    "name": "Cap",
+    "category": "Fashion",
+    "price": 15.00,
+    "stock": 45,
+    "description": "Cotton adjustable baseball cap.",
+    "image_url": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500"
+  },
+  {
+    "id": 19,
+    "name": "Succulent Plant",
+    "category": "Garden",
+    "price": 10.00,
+    "stock": 35,
+    "description": "Small easy-care indoor succulent in ceramic pot.",
+    "image_url": "https://images.unsplash.com/photo-1446071103084-c257b5f70672?w=500"
+  },
+  {
+    "id": 20,
+    "name": "Power Bank",
+    "category": "Electronics",
+    "price": 38.00,
+    "stock": 28,
+    "description": "20000mAh fast charging portable power bank.",
+    "image_url": "https://images.unsplash.com/photo-1609091839697-eb211ff6d48a?w=500"
+  }
+]
+}
