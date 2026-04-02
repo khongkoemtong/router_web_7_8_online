@@ -13,7 +13,7 @@
     "id": 2,
     "name": "Wireless Mouse",
     "category": "Electronics",
-    "price": 25.50,
+    "price": 25.50, 
     "stock": 50,
     "description": "Ergonomic 2.4GHz wireless mouse with adjustable DPI.",
     "image_url": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
